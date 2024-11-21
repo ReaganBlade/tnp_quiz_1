@@ -1,7 +1,3 @@
-Here’s a **detailed README.md** for your **Galactic Quiz** project:  
-
----
-
 # 🌌 Galactic Quiz 🚀  
 
 Galactic Quiz is an interactive web-based quiz application designed to test and expand your knowledge on subjects like **Data Structures and Algorithms (DSA)**, **Database Management Systems (DBMS)**, and **Python Programming**. Built with **Streamlit**, this app delivers a seamless, engaging experience with features like user registration, dynamic questions, and scoring.  
